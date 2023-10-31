@@ -15,7 +15,7 @@ Hello! 👋 I'm Omar , a dedicated about Data Scientist, machine learning , and 
 ## 💻 Tech Stack
 
 - **Programming Languages:** [![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql),![Python](https://img.shields.io/badge/-Python-336791?style=for-the-badge&logo=python&logoColor=white)
-, C++]
+]
 - **Frameworks/Libraries:** [React, Django, TensorFlow, etc.]
 - **Databases:** [e.g., MySQL, MongoDB]
 - **Tools:** [Git, Docker, Jenkins,]
