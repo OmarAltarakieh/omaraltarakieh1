@@ -18,21 +18,6 @@ Hello! 👋 I'm Omar , a dedicated about Data Scientist, machine learning , and 
 - **Databases:** [e.g., MySQL, MongoDB]
 - **Tools:** [Git, Docker, Jenkins,]
 
-## 🚀 Projects
-
-### [Project Name 1](Project-Link-1)
-Brief description of your project. Maybe mention the technologies used, what problem it solves, etc.
-![Project Image 1](your-project-image-url-1)
-
-### [Project Name 2](Project-Link-2)
-Another brief description. Highlight any interesting aspects of your project.
-![Project Image 2](your-project-image-url-2)
-
-... [Add more projects as needed]
-
-## ✨ Contributions
-
-I'm enthusiastic about open-source projects and believe in collaborative efforts. Check out my [contributions](https://github.com/[Your-GitHub-Username]?tab=repositories)!
 
 ## 📈 GitHub Stats
 
