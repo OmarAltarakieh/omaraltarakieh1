@@ -1,4 +1,4 @@
-# omaraltarakieh
+# Omar Altarakieh
 
 ![Your Photo](your-photo-url)
 
