@@ -1,7 +1,5 @@
 # Omar Altarakieh
 
-![Your Photo](your-photo-url)
-
 Hello! 👋 I'm Omar , a dedicated about Data Scientist, machine learning , and business anayltics  with a passion for innovation, continuous learning, and contributing to the tech community. Welcome to my GitHub portfolio!
 
 ##  About Me
