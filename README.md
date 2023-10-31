@@ -43,7 +43,7 @@ I'm enthusiastic about open-source projects and believe in collaborative efforts
 ## 🤝 Let's Connect!
 
 Feel free to connect with me on:
-- [LinkedIn]([[https://www.linkedin.com/in/omar-altrakieh-2375ba19a/]🌐
+- [LinkedIn][[https://www.linkedin.com/in/omar-altrakieh-2375ba19a/]🌐
 - [Altarakieh.omar@gmail.com] 💼
 
 Thank you for visiting my GitHub portfolio!
