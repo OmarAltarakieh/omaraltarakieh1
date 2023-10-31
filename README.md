@@ -6,7 +6,7 @@ Hello! 👋 I'm Omar , a dedicated about Data Scientist, machine learning , and 
 
 ##  About Me
 
-- 🔭 **Working On:** curantley a master degree full-time student  
+- 🔭 **Working On:** full - time master students   
 - 🌱 **Learning:** [Machine Learning,]
 - 💡 **Interests:** [Gaming , sports , hiking ]
 - 🎓 **Education:** [Master in busniess analytics and big data , IE university]
